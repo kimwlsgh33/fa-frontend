@@ -25,4 +25,4 @@ class EmployeeService {
   }
 }
 
-export default new EmployeeService();
+export default EmployeeService();
